@@ -1,5 +1,5 @@
 /**
- * Created by Jack on 6/6/2016.1111
+ * Created by Jack on 6/6/2016.
  */
 define(function(){
     function myFunctionDel(element){
